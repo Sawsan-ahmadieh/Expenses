@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfExpenditure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Expenditure ItemName="Item 1">
+    <Id xmlns="http://www.cpandl.com">2</Id>
+    <ItemDesc xmlns="http://www.cpandl.com" />
+    <TotalAmount xmlns="http://www.cpandl.com">20000.00</TotalAmount>
+    <Price xsi:nil="true" xmlns="http://www.cpandl.com" />
+    <Qty xsi:nil="true" xmlns="http://www.cpandl.com" />
+    <DateTaken xmlns="http://www.cpandl.com">2020-08-08T00:00:00</DateTaken>
+  </Expenditure>
+  <Expenditure ItemName="Item 1">
+    <Id xmlns="http://www.cpandl.com">3</Id>
+    <ItemDesc xmlns="http://www.cpandl.com" />
+    <TotalAmount xmlns="http://www.cpandl.com">30000.00</TotalAmount>
+    <Price xsi:nil="true" xmlns="http://www.cpandl.com" />
+    <Qty xsi:nil="true" xmlns="http://www.cpandl.com" />
+    <DateTaken xmlns="http://www.cpandl.com">2020-02-02T00:00:00</DateTaken>
+  </Expenditure>
+  <Expenditure ItemName="Item 1">
+    <Id xmlns="http://www.cpandl.com">4</Id>
+    <ItemDesc xmlns="http://www.cpandl.com">item one desc</ItemDesc>
+    <TotalAmount xmlns="http://www.cpandl.com">20000.00</TotalAmount>
+    <Price xmlns="http://www.cpandl.com">10000.00</Price>
+    <Qty xmlns="http://www.cpandl.com">2</Qty>
+    <DateTaken xmlns="http://www.cpandl.com">2020-06-06T00:00:00</DateTaken>
+  </Expenditure>
+  <Expenditure ItemName="item 2">
+    <Id xmlns="http://www.cpandl.com">5</Id>
+    <ItemDesc xmlns="http://www.cpandl.com">goo on</ItemDesc>
+    <TotalAmount xmlns="http://www.cpandl.com">10000.00</TotalAmount>
+    <Price xmlns="http://www.cpandl.com">5000.00</Price>
+    <Qty xmlns="http://www.cpandl.com">2</Qty>
+    <DateTaken xmlns="http://www.cpandl.com">2021-01-08T00:00:00</DateTaken>
+  </Expenditure>
+  <Expenditure ItemName="Item 3">
+    <Id xmlns="http://www.cpandl.com">0</Id>
+    <ItemDesc xmlns="http://www.cpandl.com" />
+    <TotalAmount xmlns="http://www.cpandl.com">20000</TotalAmount>
+    <Price xsi:nil="true" xmlns="http://www.cpandl.com" />
+    <Qty xsi:nil="true" xmlns="http://www.cpandl.com" />
+    <DateTaken xmlns="http://www.cpandl.com">2021-01-14T00:00:00</DateTaken>
+  </Expenditure>
+  <Expenditure ItemName="Item 4">
+    <Id xmlns="http://www.cpandl.com">0</Id>
+    <ItemDesc xmlns="http://www.cpandl.com" />
+    <TotalAmount xmlns="http://www.cpandl.com">12000</TotalAmount>
+    <Price xsi:nil="true" xmlns="http://www.cpandl.com" />
+    <Qty xsi:nil="true" xmlns="http://www.cpandl.com" />
+    <DateTaken xmlns="http://www.cpandl.com">2021-01-14T00:00:00</DateTaken>
+  </Expenditure>
+  <Expenditure ItemName="Item 4">
+    <Id xmlns="http://www.cpandl.com">0</Id>
+    <ItemDesc xmlns="http://www.cpandl.com" />
+    <TotalAmount xmlns="http://www.cpandl.com">200000</TotalAmount>
+    <Price xsi:nil="true" xmlns="http://www.cpandl.com" />
+    <Qty xsi:nil="true" xmlns="http://www.cpandl.com" />
+    <DateTaken xmlns="http://www.cpandl.com">2021-01-14T00:00:00</DateTaken>
+  </Expenditure>
+  <Expenditure ItemName="Item 5">
+    <Id xmlns="http://www.cpandl.com">0</Id>
+    <ItemDesc xmlns="http://www.cpandl.com" />
+    <TotalAmount xmlns="http://www.cpandl.com">18000</TotalAmount>
+    <Price xsi:nil="true" xmlns="http://www.cpandl.com" />
+    <Qty xsi:nil="true" xmlns="http://www.cpandl.com" />
+    <DateTaken xmlns="http://www.cpandl.com">2021-01-14T00:00:00</DateTaken>
+  </Expenditure>
+</ArrayOfExpenditure>
